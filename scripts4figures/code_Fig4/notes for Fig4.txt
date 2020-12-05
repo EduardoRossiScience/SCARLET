@@ -1,0 +1,2 @@
+In order to run the main script “scriptFig4.m”, the external user must
+copy “scriptFig4.m” inside the folder “source_code”
