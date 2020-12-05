@@ -1,1 +1,8 @@
 
+This folder contains a series of subfolders conceived to re-generate the figures attached to the submitted paper to GMD. 
+The user should read first the instructions contained inside the txt file contained inside each folder.
+Some of the figures require several time and a good cluster in order to be ultimated. The computatinal process can be speed up reducing the number of loops
+contained in some of the scripts.
+
+Eduardo Rossi
+
