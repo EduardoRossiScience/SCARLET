@@ -1,0 +1,6 @@
+The new figure 9 requires several simulations to be obtained. 
+Some of them can be demanding if not run on a cluster machine. 
+
+In order to run the main script “scriptFig9.m”, the external user must
+copy both “scriptFig9new.m” and “SCARLET_v1_GMDplotFig9new.m” inside the folder 
+“source_code”
