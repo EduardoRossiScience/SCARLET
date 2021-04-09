@@ -1,0 +1,14 @@
+Figure 12 and Figure 13 require several simulations to be obtained.
+In total there are 32 plots involved in these two figures. 
+The attached script generates just one of the 32 figures. Th external user must
+modify the input parameters within the script to generate all of them.
+Especially for what concerns Fig.13 - more demanding - a cluster is needed for
+the parallelisation to be effective.
+
+
+In order to run the main script “scriptFig12_13.m”, the external user must
+copy both “scriptFig12_13.m” and “SCARLET_v1_GMDplotFig12_13.m” inside the folder 
+“source_code”.
+Pay attention to the fact that the code searches for the stl file of the ellipsoid
+in a dedicated folder (STL_examples/Fig12_Fig13). The path inside the script must be
+correct in order to charge the right STL file.
