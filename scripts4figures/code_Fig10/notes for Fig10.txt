@@ -1,0 +1,6 @@
+Figure 10 requires several simulations to be obtained. 
+Some of them can be demanding if not run on a cluster machine. 
+
+In order to run the main script “scriptFig10.m”, the external user must
+copy both “scriptFig10.m” and “SCARLET_v1_GMDplotFig10.m” inside the folder 
+“source_code”
