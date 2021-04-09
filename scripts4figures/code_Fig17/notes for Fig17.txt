@@ -1,0 +1,4 @@
+In order to run the main script “scriptFig17.m”, the external user must
+copy both “scriptFig17.m” and “SCARLET_v1_GMDplotFig17.m” inside the folder 
+“source_code”.
+The plots of the paper are the result of five iterations in the for loop (N_repetitions = 5; @line 109). The external user can set it to 1 in order to have just one simulation and speed up the revision process.
